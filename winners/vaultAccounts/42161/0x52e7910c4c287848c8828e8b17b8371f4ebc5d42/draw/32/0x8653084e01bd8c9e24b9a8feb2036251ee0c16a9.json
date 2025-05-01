@@ -1,0 +1,22 @@
+{
+  "winners": [
+    {
+      "user": "0x07Afb3101e2d29702c10603CcC54498c8e7c48b5",
+      "prizes": {
+        "4": [
+          50,
+          176,
+          200
+        ]
+      }
+    },
+    {
+      "user": "0xa8078cAbCE440b0fEADD7264Adf179D301fCef18",
+      "prizes": {
+        "4": [
+          200
+        ]
+      }
+    }
+  ]
+}

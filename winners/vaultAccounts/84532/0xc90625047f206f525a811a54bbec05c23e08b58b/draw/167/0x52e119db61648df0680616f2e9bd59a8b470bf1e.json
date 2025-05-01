@@ -1,0 +1,116 @@
+{
+  "winners": [
+    {
+      "user": "0xB4D3D28Bb50AC56A59353d49854beF5023bA9cCD",
+      "prizes": {
+        "1": [
+          2
+        ]
+      }
+    },
+    {
+      "user": "0x470F38190d2E8fB0E31A7cD9DBd48B961ba7D03B",
+      "prizes": {
+        "1": [
+          2
+        ]
+      }
+    },
+    {
+      "user": "0x88154e94b4E11cEc7d244575b775F38EC187AaB0",
+      "prizes": {
+        "2": [
+          1
+        ]
+      }
+    },
+    {
+      "user": "0x40a940BA9cbAB455f301494d37b94341c7B6a034",
+      "prizes": {
+        "2": [
+          6
+        ]
+      }
+    },
+    {
+      "user": "0x183b46624439D68F848501ceFc277CcD13157c77",
+      "prizes": {
+        "2": [
+          9
+        ]
+      }
+    },
+    {
+      "user": "0xF8DC42eE25516E44eB32479EC58C44d1a94264D3",
+      "prizes": {
+        "2": [
+          2
+        ]
+      }
+    },
+    {
+      "user": "0x5c77CCdb456Ea204b521c12ebF653fA7cfC7871F",
+      "prizes": {
+        "2": [
+          8
+        ]
+      }
+    },
+    {
+      "user": "0x0BCD38271016EF11aA87de767bac870dC7bC25F1",
+      "prizes": {
+        "3": [
+          0
+        ]
+      }
+    },
+    {
+      "user": "0xa464de308dCAc75DE43DE5476f552592f266420a",
+      "prizes": {
+        "3": [
+          58
+        ]
+      }
+    },
+    {
+      "user": "0x966EF7F5534c102cF4875b57bB3B68318b8efc00",
+      "prizes": {
+        "3": [
+          9
+        ]
+      }
+    },
+    {
+      "user": "0x82dc8e2290613Bd9E8D87e666d60775aBbE67F58",
+      "prizes": {
+        "3": [
+          34
+        ]
+      }
+    },
+    {
+      "user": "0x03C81052079A9b71B21ADcFB5FAeBd4bC9858C82",
+      "prizes": {
+        "3": [
+          36
+        ]
+      }
+    },
+    {
+      "user": "0x5598FB4E1ba0CF4D281b54E877526BA786aedA2d",
+      "prizes": {
+        "3": [
+          50
+        ]
+      }
+    },
+    {
+      "user": "0xFa2B2F16f29d9590164aF76f2073F05B5E1Ed6Fe",
+      "prizes": {
+        "3": [
+          15
+        ]
+      }
+    }
+  ]
+}

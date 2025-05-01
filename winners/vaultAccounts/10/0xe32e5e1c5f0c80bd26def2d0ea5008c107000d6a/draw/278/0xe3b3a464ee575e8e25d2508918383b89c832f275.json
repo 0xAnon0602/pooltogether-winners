@@ -1,0 +1,120 @@
+{
+  "winners": [
+    {
+      "user": "0xAFA4D9b35Ff0b4Dc94D5f17B6DAC3017dF6f1a5C",
+      "prizes": {
+        "1": [
+          2
+        ]
+      }
+    },
+    {
+      "user": "0x3A00B3c58E45F2d5Ce8E6929F6d12d792b0C3323",
+      "prizes": {
+        "1": [
+          3
+        ]
+      }
+    },
+    {
+      "user": "0xbeef012A3B8087Ac8DBb65cdb949a31A30049FcD",
+      "prizes": {
+        "2": [
+          14
+        ]
+      }
+    },
+    {
+      "user": "0x4e0f82a5E1C3a3a38D03377108b1785016C4DcEc",
+      "prizes": {
+        "2": [
+          15
+        ]
+      }
+    },
+    {
+      "user": "0x23dDd2422e8E605A18DF2530f7735f337dF02423",
+      "prizes": {
+        "2": [
+          2,
+          11
+        ]
+      }
+    },
+    {
+      "user": "0xdaa070D909E010211606144eDe5B2ca6864C2c1c",
+      "prizes": {
+        "2": [
+          2
+        ]
+      }
+    },
+    {
+      "user": "0x1Db383f83B61E5Ab316366c2b1ab12D6D0F25eaA",
+      "prizes": {
+        "2": [
+          14
+        ]
+      }
+    },
+    {
+      "user": "0x529096C3065D8A82355bC358E0f2af764c337A20",
+      "prizes": {
+        "2": [
+          6,
+          7,
+          9,
+          12
+        ]
+      }
+    },
+    {
+      "user": "0x8059645ffEA50C4F2C78A9c6351cD2D9D6d9b951",
+      "prizes": {
+        "2": [
+          13
+        ]
+      }
+    },
+    {
+      "user": "0x2225b32aebf89888821EC7dd59dCBC653b49F6Aa",
+      "prizes": {
+        "2": [
+          6
+        ]
+      }
+    },
+    {
+      "user": "0xEeAb1c3B6F441C9824a27C91E45B6A17586cE3Bb",
+      "prizes": {
+        "2": [
+          2
+        ]
+      }
+    },
+    {
+      "user": "0xA26521F68E475032c0245015892047b8B7680332",
+      "prizes": {
+        "2": [
+          4
+        ]
+      }
+    },
+    {
+      "user": "0xC332C8949f6E4D978eC76da5dE5da40c6FAEa274",
+      "prizes": {
+        "2": [
+          15
+        ]
+      }
+    },
+    {
+      "user": "0x5017deBc066df702Ba3b085F2EE015E79Ae24500",
+      "prizes": {
+        "2": [
+          9
+        ]
+      }
+    }
+  ]
+}

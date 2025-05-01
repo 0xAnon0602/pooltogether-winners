@@ -1,0 +1,37 @@
+{
+  "0xaaf954c54fae10877bf0a0ba9f5ca6129e13e450": [
+    {
+      "user": "0xa91386ffa5ad79def1ee8ecb13f16cc68bcf79a9",
+      "prizes": {
+        "3": [
+          57
+        ]
+      }
+    },
+    {
+      "user": "0xb1cfab3570dd93dbb0ac49b47fdb358ee597f98f",
+      "prizes": {
+        "3": [
+          6
+        ]
+      }
+    },
+    {
+      "user": "0xd07aec65d8af978a10cd591a2058e3dd4bb1cfd3",
+      "prizes": {
+        "3": [
+          23
+        ]
+      }
+    },
+    {
+      "user": "0xc222f78f58edc218fe27a2bd0126feef7b43e8ce",
+      "prizes": {
+        "1": [
+          0
+        ]
+      }
+    }
+  ],
+  "0xd262c57b43b9198e5375dd28fb6bcfe86557b4e6": []
+}

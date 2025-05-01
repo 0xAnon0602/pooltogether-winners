@@ -1,0 +1,119 @@
+{
+  "winners": [
+    {
+      "user": "0xD9de979Dc22210d719Cb2663FACA65eA95a2A6b6",
+      "prizes": {
+        "3": [
+          26
+        ]
+      }
+    },
+    {
+      "user": "0x30984998cD58ad594dFdEDFC84E28d988c68D3c8",
+      "prizes": {
+        "3": [
+          54
+        ]
+      }
+    },
+    {
+      "user": "0x60e663c3F4e11a546072eb1Cc06B8A3746b776aE",
+      "prizes": {
+        "3": [
+          17
+        ]
+      }
+    },
+    {
+      "user": "0xdEfA9DcbF4d293473638C2198e9E2b5aa765cB93",
+      "prizes": {
+        "3": [
+          55
+        ]
+      }
+    },
+    {
+      "user": "0x53D78e4d294C74874be3057711aCce05e8dF2a2f",
+      "prizes": {
+        "3": [
+          20
+        ]
+      }
+    },
+    {
+      "user": "0x3dA31e2C8bF6ADd284812951961Fca89786E1FE3",
+      "prizes": {
+        "2": [
+          1
+        ],
+        "3": [
+          45
+        ]
+      }
+    },
+    {
+      "user": "0x8039175aa9A4FA58d94077470bD2435aFA1203CF",
+      "prizes": {
+        "3": [
+          7
+        ]
+      }
+    },
+    {
+      "user": "0x2638D805d2f56282B4527EE975D77788E84e1042",
+      "prizes": {
+        "3": [
+          43
+        ]
+      }
+    },
+    {
+      "user": "0xEeF683fb4dC65c094F64dA140a8d4d978968E509",
+      "prizes": {
+        "3": [
+          23
+        ]
+      }
+    },
+    {
+      "user": "0x08B5d9e1F84272Ed3C6d8A6d4Eb5dbd2682cd129",
+      "prizes": {
+        "3": [
+          31
+        ]
+      }
+    },
+    {
+      "user": "0x7a70A1Ff2BDa14758b3f50F204c9ce0567336fED",
+      "prizes": {
+        "3": [
+          2
+        ]
+      }
+    },
+    {
+      "user": "0x4Bb2F0c75A182E7c0CA8DFB8f105f08f07Bc3841",
+      "prizes": {
+        "2": [
+          14
+        ]
+      }
+    },
+    {
+      "user": "0x4ff7C0FE6E1099EC68E66B7f36A93a8eCab2B42e",
+      "prizes": {
+        "2": [
+          8
+        ]
+      }
+    },
+    {
+      "user": "0x3CE340d9eB968E765B33E1E26a6c9c206A6789D0",
+      "prizes": {
+        "2": [
+          11
+        ]
+      }
+    }
+  ]
+}

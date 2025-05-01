@@ -1,0 +1,146 @@
+{
+  "winners": [
+    {
+      "user": "0x29bBF26fc9628D076094C20f0CEa51142BBc4aA5",
+      "prizes": {
+        "3": [
+          1,
+          56
+        ],
+        "4": [
+          247
+        ]
+      }
+    },
+    {
+      "user": "0x5c59Fff579E94E3EF2dEeB66d031c984B4D6b7F4",
+      "prizes": {
+        "3": [
+          55
+        ],
+        "4": [
+          43,
+          56,
+          113,
+          183,
+          186
+        ]
+      }
+    },
+    {
+      "user": "0x7C6Accd51cbbdd53354De581841803b4f79d48e7",
+      "prizes": {
+        "3": [
+          44
+        ]
+      }
+    },
+    {
+      "user": "0x042baF4D9351F1959dab1C8169a4661C892d7547",
+      "prizes": {
+        "3": [
+          30,
+          37,
+          61
+        ],
+        "4": [
+          7,
+          16,
+          82,
+          92,
+          127
+        ]
+      }
+    },
+    {
+      "user": "0x9dfCFF7e3076266d8D76BFB498058482E774410d",
+      "prizes": {
+        "3": [
+          45,
+          61
+        ],
+        "4": [
+          33,
+          52
+        ]
+      }
+    },
+    {
+      "user": "0x9AA4E6641FEfD0764BfEBDeda637E7782d7eD4dc",
+      "prizes": {
+        "4": [
+          33,
+          55,
+          195,
+          225
+        ]
+      }
+    },
+    {
+      "user": "0x6eBA83aC495f7dB36F398AefFBcd0FB6F21AAb7e",
+      "prizes": {
+        "4": [
+          210
+        ]
+      }
+    },
+    {
+      "user": "0xf0772Eb66Bdb39A953273ab1F8a5A086DB247d3A",
+      "prizes": {
+        "4": [
+          41,
+          133,
+          186
+        ]
+      }
+    },
+    {
+      "user": "0x8Aeb24Ba4A9f25eaD8609EE3Bc6F52AC8D49aD3b",
+      "prizes": {
+        "4": [
+          234
+        ]
+      }
+    },
+    {
+      "user": "0xC7f7fdEB17fBC0C35a96221286F54fa022251ffc",
+      "prizes": {
+        "4": [
+          90
+        ]
+      }
+    },
+    {
+      "user": "0xe9FBD0A3703A487DbE8FAcb48288dEb267596eAA",
+      "prizes": {
+        "4": [
+          79
+        ]
+      }
+    },
+    {
+      "user": "0xeA310C966D3Ff5E09c65487f1763B21361Eb71eF",
+      "prizes": {
+        "4": [
+          128
+        ]
+      }
+    },
+    {
+      "user": "0x9F36A6bB398118bdCD5B1bC3343D8FEB6d7d02B9",
+      "prizes": {
+        "4": [
+          148
+        ]
+      }
+    },
+    {
+      "user": "0x01d9212ad932386F3DdEA568291f109E8c0b66b1",
+      "prizes": {
+        "4": [
+          173
+        ]
+      }
+    }
+  ]
+}

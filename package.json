@@ -1,0 +1,23 @@
+{
+  "name": "pt-v5-winners",
+  "version": "1.0.0",
+  "description": "Efficient tool to calculate and store winners output for PT v5 mainnet locally",
+  "main": "run-local.js",
+  "repository": "git@github.com:generationsoftware/pt-v5-winners.git",
+  "author": {
+    "name": "G9 Software Inc.",
+    "url": "https://github.com/generationsoftware"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node run-local.js",
+    "gnosis": "node run-local.js gnosis-mainnet",
+    "world": "node run-local.js world-mainnet",
+    "opt": "node run-local.js optimism-mainnet",
+    "base": "node run-local.js base-mainnet"
+  },
+  "dependencies": {
+    "@generationsoftware/pt-v5-cli": "2.0.8",
+    "dotenv": "^16.5.0"
+  }
+}
